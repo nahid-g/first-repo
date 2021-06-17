@@ -24,7 +24,7 @@ of code
 ```
 
 Here is how you make (https://www.wikipedia.org/).
-[//]: <> (This is also a comment.)
+<> (This is also a comment.)
 Here is how you make [a link] (https://www.wikipedia.org/).
 
 
