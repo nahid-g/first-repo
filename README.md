@@ -26,3 +26,5 @@ Last night I dreamt about eating in these restaurants:
 
 The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
 
+### video embedding
+https://www.youtube.com/watch?v=G3Cytlicv8Y
